@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**EBay12Y/EBay12Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 I’m @ekabayu
 
-Here are some ideas to get you started:
+🌱 I life in Malang, Indonesia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏫 I’m student in Universitas Brawijaya, Malang, Indonesia
+
+👀 I interest in frontend, reactJS especially. But backend looks great too.
+
+📫 If you are interested in getting to know me, please follow my [linkedin account](https://www.linkedin.com/in/eka-bayu-satriawan/)
+
+<p align="left">
+<a href="https://github.com/EBay12Y">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EBay12Y&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EBay12Y&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
