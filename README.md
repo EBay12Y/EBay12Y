@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👨‍💻 I’m @ekabayu
-- 🌱 I life in Malang, Indonesia
+- 🌱 I life in Surabaya, Indonesia
 - 🏫 I’m student in Universitas Brawijaya, Malang, Indonesia
 - 👀 I interest in frontend, reactJS especially. But backend looks great too.
 - 📫 If you are interested in getting to know me, please follow my [linkedin account](https://www.linkedin.com/in/eka-bayu-satriawan/)
