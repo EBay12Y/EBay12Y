@@ -16,9 +16,9 @@
 
 [![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://linkedin.com/in/https://www.linkedin.com/in/eka-bayu-satriawan/)
 [![Gmail](https://img.icons8.com/fluent/48/000000/gmail-new.png)](mailto:ekabayusatriawan@gmail.com)
-[![Website](https://img.icons8.com/fluency/48/000000/domain.png)](https://ekabayu.vercel.app/)
 [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/ekabayu_/)
 [![YouTube](https://img.icons8.com/fluency/48/000000/youtube-play.png)](https://www.youtube.com/@ekabayu_)
+[![Website](https://img.icons8.com/fluency/48/000000/domain.png)](https://ekabayu.vercel.app/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
