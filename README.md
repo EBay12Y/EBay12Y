@@ -3,7 +3,7 @@
 - 👨‍💻 I’m @ekabayu
 - 🌱 I life in Surabaya, Indonesia
 - 🏫 Recent graduate from Universitas Brawijaya, Malang, Indonesia
-- 👀 I'm interested in frontend, especially Next.js. But IoT looks great too
+- 👀 I’m especially interested in frontend development, particularly with Next.js. However, IoT also seems fascinating
 
 <p align="left">
 <a href="https://github.com/EBay12Y">
