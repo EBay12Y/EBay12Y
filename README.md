@@ -3,7 +3,8 @@
 - 👨‍💻 I’m @ekabayu
 - 🌱 I life in Surabaya, Indonesia
 - 🏫 Recent graduate from Universitas Brawijaya, Malang, Indonesia
-- 👀 I’m especially interested in frontend development, particularly with Next.js. However, IoT also seems fascinating
+- 👀 I’m especially interested in frontend development, particularly with Next.js
+- 🐳 However, IoT also seems fascinating
 
 <p align="left">
 <a href="https://github.com/EBay12Y">
@@ -40,11 +41,11 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
   <a href="https://daisyui.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/saadeghi/daisyui-images/master/images/daisyui-logo/favicon-192.png" alt="daisyui" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" alt="mongodb" width="40" height="40"/>
